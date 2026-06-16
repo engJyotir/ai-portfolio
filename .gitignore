@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts
+dist/
+build/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Uploaded files
+uploads/
+data/
+
+# Vector DBs
+vectorstore/
+faiss_index/
+indexes/
