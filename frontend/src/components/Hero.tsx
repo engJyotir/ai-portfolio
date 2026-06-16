@@ -264,7 +264,7 @@ return ( <section
         </a>
 
         <a
-          href="/resume.pdf"
+          href="/Jyotiraditya.pdf"
           target="_blank"
           className="
           px-8
