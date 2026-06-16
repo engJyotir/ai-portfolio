@@ -40,7 +40,7 @@ htmlcov/
 
 # Uploaded files
 uploads/
-data/
+
 
 # Vector DBs
 vectorstore/
