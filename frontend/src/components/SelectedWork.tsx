@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { projects } from "@/src/data/projects";
+import { projects } from "../data/projects";
 
 export default function SelectedWork() {
   return (
