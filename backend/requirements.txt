@@ -1,11 +1,11 @@
-fastapi==0.115.6
-uvicorn==0.32.1
-python-dotenv==1.0.1
+fastapi
+uvicorn
+python-dotenv
 
-langchain==0.3.13
-langchain-openai==0.2.14
-langchain-pinecone==0.2.0
+langchain
+langchain-openai
 
-pinecone==5.4.2
+pinecone-client
+langchain-pinecone
 
-langchain-text-splitters==0.3.4
+langchain-text-splitters
